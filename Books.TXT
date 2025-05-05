@@ -1,0 +1,13 @@
+To Kill a Mockingbird,1960,281,Harper Lee
+Pride and Prejudice,1813,279,Jane Austen
+The Great Gatsby,1925,180,F. Scott Fitzgerald
+War and Peace,1869,1225,Leo Tolstoy
+The Catcher in the Rye,1951,277,J.D. Salinger
+The Hobbit,1937,310,J.R.R. Tolkien
+Crime and Punishment,1866,430,Fyodor Dostoevsky
+Jane Eyre,1847,500,Charlotte Brontë
+Brave New World,1932,268,Aldous Huxley
+The Picture of Dorian Gray,1890,254,Oscar Wilde
+Don Quixote,1605,1072,Miguel de Cervantes
+Fahrenheit 451,1953,194,Ray Bradbury
+The Stranger,1942,123,Albert Camus

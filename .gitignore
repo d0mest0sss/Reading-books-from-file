@@ -1,0 +1,18 @@
+*.class
+*.jar
+*.log
+*.war
+*.ear
+
+# IntelliJ
+.idea/
+*.iml
+
+# Eclipse
+.project
+.classpath
+.settings/
+
+# NetBeans
+nbproject/private/
+build/
